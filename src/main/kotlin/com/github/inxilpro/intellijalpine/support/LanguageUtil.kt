@@ -11,7 +11,7 @@ object LanguageUtil {
     private val HTML_LIKE_EXTENSIONS = setOf(
         "html", "htm", "xhtml", "xml",
         "php", "twig", "smarty", "tpl", "phtml",
-        "erb", "jsp", "jsf", "ftl", "vm",
+        "erb", "jsp", "jsf", "ftl", "vm", "cshtml"
     )
 
     private val TEMPLATE_LANGUAGE_IDS = setOf(
